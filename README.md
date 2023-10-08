@@ -1,4 +1,4 @@
-### Big Data with Pyspark
+### Big Data with PySpark
 
 Spark is an open-source, lightning-fast, and distributed data processing framework for big data processing and analytics. It empowers organizations to efficiently handle large-scale data processing and advanced analytics.
 
@@ -15,12 +15,16 @@ Spark is an open-source, lightning-fast, and distributed data processing framewo
 <br>
 
 
+#### Installation
+- Make sure Java has been installed in your system, and the path of the java `bin/` directory has been set
+    in the environment variable `JAVA_HOME`.
+- Install requirements using `pip install -r requirements.txt`
+<br>
+<br>
+
 #### Code Snippets
-- #### Installation
-    - Make sure Java has been installed in your system, and the path of the java `bin/` directory has been set
-        in the environment variable `JAVA_HOME`.
-    - Install requirements using `pip install -r requirements.txt`
 - [Basics](01.%20Basics.ipynb)
 - [Data Types](02.%20Data%20types.ipynb)
 - [Handling  missing Values](03.%20Handling%20missing%20values.ipynb)
 - [Filtering Data](04.%20Filter%20Operations.ipynb)
+- [Aggregation Methods](05.%20aggregation%20Methods.ipynb)
