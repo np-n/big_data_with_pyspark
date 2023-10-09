@@ -28,3 +28,4 @@ Spark is an open-source, lightning-fast, and distributed data processing framewo
 - [Handling  missing Values](03.%20Handling%20missing%20values.ipynb)
 - [Filtering Data](04.%20Filter%20Operations.ipynb)
 - [Aggregation Methods](05.%20aggregation%20Methods.ipynb)
+- [Linear Regression](06.%20Linear%20Regression.ipynb)
